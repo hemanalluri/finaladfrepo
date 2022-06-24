@@ -1,0 +1,9 @@
+{
+	"name": "prodstudentadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a083cbdb-e689-4e0d-b87a-379e6fd7a5b7",
+		"tenantId": "c90298ad-3591-4f35-ab57-0c39ea5ac793"
+	}
+}
